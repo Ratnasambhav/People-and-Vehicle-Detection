@@ -17,8 +17,8 @@ The second can recognize if the model has one (or more) of the follwing cars:
 
 ## How to use?
 
-Please download the models from [this Google Drive 🔗](https://drive.google.com/drive/folders/1vb_ZYMfwxFOLMqQltyg_zJDnT1dvVsC0?usp=sharing) and place them in the models 📁.
+Please download the models from [this Google Drive 🔗](https://drive.google.com/drive/folders/1vb_ZYMfwxFOLMqQltyg_zJDnT1dvVsC0?usp=sharing) and place them in the models 📁. There is no need to download all the files given in the link, just download the `.pb` files. Or download the whole folder and replce the already present 'models' 📁 in the repo 📁.
 
 Download Imagenet from [this 🔗](http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz) and extract it in the repo 📁.
 
-That's it! Now you can run the notebook!
+That's it! Now you can run the `People-and-Vehicle-Detection.ipynb` notebook!
