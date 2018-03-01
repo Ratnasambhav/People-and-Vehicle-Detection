@@ -19,6 +19,6 @@ The second can recognize if the model has one (or more) of the follwing cars:
 
 Please download the models from [this Google Drive 🔗](https://drive.google.com/drive/folders/1vb_ZYMfwxFOLMqQltyg_zJDnT1dvVsC0?usp=sharing) and place them in the models 📁.
 
-Download Imagenet from this [🔗](http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz) and extract it in the repo 📁.
+Download Imagenet from [this 🔗](http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz) and extract it in the repo 📁.
 
 That's it! Now you can run the notebook!
